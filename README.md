@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modulo 2
+Este proyecto es una prueba de como crear un repositorio de como crear y clonar a mi escritorio local
